@@ -1,0 +1,11 @@
+/home/amiritis/Dev/DiningPhilosphers/bin/Debug/netcoreapp2.1/DiningPhilosphers.deps.json
+/home/amiritis/Dev/DiningPhilosphers/bin/Debug/netcoreapp2.1/DiningPhilosphers.runtimeconfig.json
+/home/amiritis/Dev/DiningPhilosphers/bin/Debug/netcoreapp2.1/DiningPhilosphers.runtimeconfig.dev.json
+/home/amiritis/Dev/DiningPhilosphers/bin/Debug/netcoreapp2.1/DiningPhilosphers.dll
+/home/amiritis/Dev/DiningPhilosphers/bin/Debug/netcoreapp2.1/DiningPhilosphers.pdb
+/home/amiritis/Dev/DiningPhilosphers/obj/Debug/netcoreapp2.1/DiningPhilosphers.csprojAssemblyReference.cache
+/home/amiritis/Dev/DiningPhilosphers/obj/Debug/netcoreapp2.1/DiningPhilosphers.csproj.CoreCompileInputs.cache
+/home/amiritis/Dev/DiningPhilosphers/obj/Debug/netcoreapp2.1/DiningPhilosphers.AssemblyInfoInputs.cache
+/home/amiritis/Dev/DiningPhilosphers/obj/Debug/netcoreapp2.1/DiningPhilosphers.AssemblyInfo.cs
+/home/amiritis/Dev/DiningPhilosphers/obj/Debug/netcoreapp2.1/DiningPhilosphers.dll
+/home/amiritis/Dev/DiningPhilosphers/obj/Debug/netcoreapp2.1/DiningPhilosphers.pdb
