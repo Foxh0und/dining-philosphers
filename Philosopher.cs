@@ -22,7 +22,7 @@ namespace DiningPhilosophers
 		private void Think()
 		{
 			Console.WriteLine( "{0} is thinking.", fActiveObjectThread.Name);
-			Thread.Sleep(5000);
+			Thread.Sleep( 5000 );
 		}
 
 		private void Pickup()
@@ -35,7 +35,7 @@ namespace DiningPhilosophers
 		private void Eat()
 		{
 			Console.WriteLine( "{0} is eating.", fActiveObjectThread.Name);
-			Thread.Sleep(3000);
+			Thread.Sleep( 3000 );
 		}
 
 		private void PutDown()
