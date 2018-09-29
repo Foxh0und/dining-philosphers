@@ -19,26 +19,26 @@ namespace DiningPhilosophers
 			fSemaphore = aSemaphore;
 		}
 
-		public void Think()
+		private void Think()
 		{
 			Console.WriteLine( "{0} is thinking.", fActiveObjectThread.Name);
 			Thread.Sleep(5000);
 		}
 
-		public void Pickup()
+		private void Pickup()
 		{
 			fSemaphore.Acquire();
 			fLeftFork.Acquire();
 			fRightFork.Acquire();
 		}
 
-		public void Eat()
+		private void Eat()
 		{
 			Console.WriteLine( "{0} is eating.", fActiveObjectThread.Name);
 			Thread.Sleep(3000);
 		}
 
-		public void PutDown()
+		private void PutDown()
 		{
 			fLeftFork.Release();
 			fRightFork.Release();
